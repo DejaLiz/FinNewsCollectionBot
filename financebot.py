@@ -24,10 +24,10 @@ rss_feeds = {
         "华尔街见闻":"https://dedicated.wallstreetcn.com/rss.xml",      
     },
     "💻 36氪":{
-        "36氪":"https://36kr.com/feed",   
+        "36氪":"https://rss.injahow.cn/36kr/hot-list",   
         },
     "🇨🇳 中国经济": {
-        "香港經濟日報":"https://www.hket.com/rss/china",
+        "香港經濟日報":"https://rsshub.app/36kr/hot-list",
         "东方财富":"http://rss.eastmoney.com/rss_partener.xml",
         "百度股票焦点":"http://news.baidu.com/n?cmd=1&class=stock&tn=rss&sub=0",
         "中新网":"https://www.chinanews.com.cn/rss/finance.xml",
