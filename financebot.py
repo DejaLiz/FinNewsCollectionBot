@@ -29,9 +29,6 @@ rss_feeds = {
         "中新网":"https://www.chinanews.com.cn/rss/finance.xml",
         "国家统计局-最新发布":"https://www.stats.gov.cn/sj/zxfb/rss.xml",
     },
-      "🇺🇸 美国经济": {
-        "ETF Trends": "https://www.etftrends.com/feed/",
-    },
     "🌍 世界经济": {
         "BBC全球经济": "http://feeds.bbci.co.uk/news/business/rss.xml",
     },
